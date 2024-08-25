@@ -16,6 +16,7 @@ Utilizei o XAMPP para configurar o servidor local (Apache, MySQL). O site foi cr
 
 Instalação
 
+*IMPORTANTE* antes de tudo colocar o arquivo ''meu_crud'' na pasta htdocs do XAMPP encontrada no disco local.
 1. Navegue até o diretório do projeto `meu_crud`.
 2. Inicie os serviços Apache e MySQL no XAMPP.
 3. Acesse http://localhost/phpmyadmin.
@@ -23,6 +24,7 @@ Instalação
 5. Crie a tabela `usuarios` conforme especificado.
 6. Acesse http://localhost/meu_crud/criar.php para adicionar usuários.
 7. Acesse http://localhost/meu_crud/listar.php para listar usuários.
+*IMPORTANTE* antes de tudo colocar o arquivo ''meu_crud'' na pasta htdocs do XAMPP encontrada no disco local.
 
 Capturas de Tela
 
