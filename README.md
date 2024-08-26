@@ -31,22 +31,6 @@ Capturas de Tela
 Todas as capturas de tela dos testes estão disponíveis na pasta `imgs`.
 Todos os códigos vão estar aqui para visualização.
 
-Código usados no MySQL:
-
-CREATE DATABASE meu_crud;
-
-USE meu_crud;
-
-CREATE TABLE usuarios (
-    id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
-    nome VARCHAR(100) NOT NULL,
-    email VARCHAR(100) NOT NULL,
-    senha VARCHAR(100) NOT NULL,
-    data_criacao TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-
-
-
 Desenvolvido por
 
 Ivo Tenório
